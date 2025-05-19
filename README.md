@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akbotayerkin
-- 👀 I’m interested in AI in Business
+- 👀 I’m interested in machine learning
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Business Intelligence tools
 - 📫 How to reach me yerkinakbota@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Formula1 fan
