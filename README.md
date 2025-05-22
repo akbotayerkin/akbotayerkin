@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akbotayerkin
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in ML and healthcare
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on Business Intelligence tools
 - 📫 How to reach me yerkinakbota@gmail.com
